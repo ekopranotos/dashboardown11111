@@ -1,0 +1,1 @@
+start java -jar dashboard-owncloud-sync-tool-sch.jar
